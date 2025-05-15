@@ -1,0 +1,7 @@
+CC1101	KEYWORD1
+begin	KEYWORD2
+reset	KEYWORD2
+startReceive	KEYWORD2
+startTransmit	KEYWORD2
+writeReg	KEYWORD2
+readReg	KEYWORD2
